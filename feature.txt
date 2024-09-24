@@ -1,0 +1,3 @@
+Some new feature # adds the text “Some new feature” to the file feature.txt
+
+Axolotls, often called the "smiling salamanders," are adorable, water-dwelling creatures native to the lakes of Mexico. With their frilly gills, wide grins, and charming pink or dark hues, these little amphibians have captured the hearts of many. Unlike most salamanders, axolotls stay in their larval form for life, giving them a unique, youthful appearance. Known for their incredible ability to regenerate limbs, tails, and even parts of their heart and brain, axolotls are not just cute—they're also biological marvels!
